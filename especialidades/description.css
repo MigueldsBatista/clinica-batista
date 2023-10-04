@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'redhat';
+    src: url(../redhatfont/TTF/RedHatDisplay-Medium.ttf);
+}
+
+body {
+    background: linear-gradient(to right, rgb(235, 235, 235), rgb(228, 227, 227));
+    font-family: redhat;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    font-size: large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(36, 35, 35);
+    height: 8vh;
+    color: aliceblue;
+    
+
+}
+header a:hover{
+    color: gray;
+}
+a {
+    text-decoration: none;
+    color: aliceblue;
+    margin: 10px;
+    text-align: center;
+}
+footer {
+    background-color: rgb(36, 35, 35);
+    height: 8vh;
+    display: flex;
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    width: 100%;
+    bottom: 0;
+}
+.description {
+    text-align: left;
+    margin-left: 15px;
+    width: 40%;
+}
+.description li {
+    margin-left: 25px;
+}

@@ -1,0 +1,24 @@
+.box {
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+    margin-top: 50px;
+    background-image: url("\page images\clinica.png");
+    background-size: 100%;
+    border-radius: 15px;
+    height: 260px;   
+    padding-right: 10px;
+    margin-right: 5px;
+    
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+footer {
+    bottom: 0;
+}
+
+
