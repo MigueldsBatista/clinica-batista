@@ -1,0 +1,1 @@
+Este projeto foi meu primeiro projeto do curso de ciências da computação usando apenas html e css. O projeto consiste em uma clinica médica chamada clínica batista, pretendo adicionar outras funcionalidades no futuro para expandir meus conhecimentos
